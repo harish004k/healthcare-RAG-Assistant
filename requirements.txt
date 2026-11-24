@@ -1,0 +1,9 @@
+streamlit>=1.42,<2
+python-dotenv>=1,<2
+langchain>=0.3.27,<1
+langchain-community>=0.3.29,<1
+langchain-openai>=0.3.35,<1
+langchain-text-splitters>=0.3.11,<1
+azure-storage-blob>=12.25,<13
+pypdf>=5,<7
+pytest>=8,<9
